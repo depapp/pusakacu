@@ -1,4 +1,4 @@
-name: pusakatest-ci
+name: pusakacu-ci
 
 on:
   push:

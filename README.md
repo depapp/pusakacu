@@ -1,0 +1,1 @@
+[![pusakatest-ci](https://github.com/depapp/pusakacu/actions/workflows/ci.yml/badge.svg)](https://github.com/depapp/pusakacu/actions/workflows/ci.yml)
