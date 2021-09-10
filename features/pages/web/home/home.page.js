@@ -1,6 +1,6 @@
 class HomePage {
 
-    get verify() { return $('.product_label') }
+    get verify() { return $('.title') }
 
 }
 

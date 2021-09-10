@@ -8,4 +8,4 @@ Feature: Swag Labs - Auth
 
     Examples:
       | username      | password      | page      |
-      | standard_user | secret_sauce  | Products  |
+      | standard_user | secret_sauce  | PRODUCTS  |
